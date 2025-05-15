@@ -3,3 +3,4 @@ step right
 jump
 jump again
 jump again and again
+twirl your hand
